@@ -1,0 +1,6 @@
+[package]
+name = "web_server_self"
+version = "0.1.0"
+authors = ["jerry <larawolf388@gmail.com>"]
+
+[dependencies]
